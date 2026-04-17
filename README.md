@@ -227,6 +227,7 @@ pip install -r requirements.txt
 opencv-python
 pandas
 matplotlib
+numpy
 ```
 
 ---
